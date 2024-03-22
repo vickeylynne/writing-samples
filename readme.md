@@ -13,6 +13,6 @@ This sample illustrates writing content in markdown, using a 'code-as-doc' frame
 
 ## Blizzard Developer Platform Community
 
-When I worked at Blizzard, I wrote and organized content for their API documentation. I created the navigation, organization, and look and feel of that site and crated the majority of the content. 
+When I worked at Blizzard, I wrote and organized content for their API documentation. I created the navigation, organization, and look and feel of that site and wrote the majority of the content. 
 
 That site is available at [https://develop.battle.net/documentation](https://develop.battle.net/documentation).
